@@ -1,3 +1,5 @@
+# ca c'est le main
+
 import pyglet
 
 window = pyglet.window.Window()
