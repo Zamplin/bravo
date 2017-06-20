@@ -13,3 +13,5 @@ def on_draw():
     image.blit(0, 0)
 
 pyglet.app.run()
+
+print(3)
