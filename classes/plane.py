@@ -6,8 +6,8 @@ class Plane():
     """
     Avion
     """
-    def __init__(self, color, speed, lengh, width):
+    def __init__(self, color, speed, length, width):
        self.speed = speed
        self.color = COLOR[color]
-       self.lengh = lengh
+       self.length = length
        self.width = width
