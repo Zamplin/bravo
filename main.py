@@ -7,6 +7,8 @@ image = pyglet.resource.image('img/kitten.jpg')
 image.height
 
 
+print("b")
+
 @window.event
 def on_draw():
     window.clear()
